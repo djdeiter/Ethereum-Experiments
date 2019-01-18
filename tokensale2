@@ -1,6 +1,7 @@
 pragma solidity ^0.4.18;
 
 // 'Strawberry' presale/token creation - github/djdeiter
+// Public gripe: Ethereums REmix IDE is soSOSoSoSOsoSO buggy as of writing
 
 contract SafeMath {
     function safeAdd(uint a, uint b) internal pure returns (uint c) {
